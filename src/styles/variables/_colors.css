@@ -1,14 +1,19 @@
 :root {
-  --color-primary: #3498db; /* Blue */
-  --color-secondary: #2ecc71; /* Green */
-  --color-tertiary: #e74c3c; /* Red */
-  --color-quaternary: #f39c12; /* Orange */
-  --color-quinary: #9b59b6; /* Purple */
-  --color-senary: #34495e; /* Dark Grayish Blue */
-  --color-septenary: #d35400; /* Pumpkin */
-  --color-octonary: #16a085; /* Green Sea */
-  --color-nonary: #c0392b; /* Pomegranate */
-  --color-denary: #7f8c8d; /* Silver */
+  --color-primary: #1b79cf;
+  --color-secondary: #4faeb4;
+  --color-success: #2ecc71;
+  --color-info: #3498db;
+  --color-warning: #f1c40f;
+  --color-danger: #e74c3c;
+
+  --color-tertiary: #e74c3c;
+  --color-quaternary: #f39c12;
+  --color-quinary: #9b59b6;
+  --color-senary: #34495e;
+  --color-septenary: #d35400;
+  --color-octonary: #16a085;
+  --color-nonary: #c0392b;
+  --color-denary: #7f8c8d;
 
   /* Light and Dark Shades */
   --color-light: #ecf0f1; /* Light Gray */
