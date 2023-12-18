@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 # Ethereal CSS Framework
 
 Ethereal is a lightweight and versatile CSS framework designed to streamline web development and empower developers to create modern, responsive, and visually appealing user interfaces. With a focus on simplicity, flexibility, and performance, Ethereal provides a solid foundation for building web applications and websites.
