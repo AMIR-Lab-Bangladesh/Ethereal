@@ -1,6 +1,5 @@
-/* _utilities.css */
-
 /* Margin Utilities */
+
 .mr-1 {
   margin-right: 0.25rem;
 }
@@ -10,7 +9,88 @@
 .mr-3 {
   margin-right: 1rem;
 }
-/* ... other margin classes ... */
+.mr-4 {
+  margin-right: 1.5rem;
+}
+.mr-5 {
+  margin-right: 3rem;
+}
+.mr-6 {
+  margin-right: 4.5rem;
+}
+.mr-7 {
+  margin-right: 6rem;
+}
+.mr-8 {
+  margin-right: 8rem;
+}
+.mr-9 {
+  margin-right: 10rem;
+}
+.mr-10 {
+  margin-right: 12rem;
+}
+.mr-11 {
+  margin-right: 14rem;
+}
+.mr-12 {
+  margin-right: 16rem;
+}
+.mr-13 {
+  margin-right: 18rem;
+}
+.mr-14 {
+  margin-right: 20rem;
+}
+.mr-15 {
+  margin-right: 22rem;
+}
+
+.ml-1 {
+  margin-left: 0.25rem;
+}
+.ml-2 {
+  margin-left: 0.5rem;
+}
+.ml-3 {
+  margin-left: 1rem;
+}
+.ml-4 {
+  margin-left: 1.5rem;
+}
+.ml-5 {
+  margin-left: 3rem;
+}
+.ml-6 {
+  margin-left: 4.5rem;
+}
+.ml-7 {
+  margin-left: 6rem;
+}
+.ml-8 {
+  margin-left: 8rem;
+}
+.ml-9 {
+  margin-left: 10rem;
+}
+.ml-10 {
+  margin-left: 12rem;
+}
+.ml-11 {
+  margin-left: 14rem;
+}
+.ml-12 {
+  margin-left: 16rem;
+}
+.ml-13 {
+  margin-left: 18rem;
+}
+.ml-14 {
+  margin-left: 20rem;
+}
+.ml-15 {
+  margin-left: 22rem;
+}
 
 .mb-1 {
   margin-bottom: 0.25rem;
@@ -20,6 +100,42 @@
 }
 .mb-3 {
   margin-bottom: 1rem;
+}
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+.mb-5 {
+  margin-bottom: 3rem;
+}
+.mb-6 {
+  margin-bottom: 4.5rem;
+}
+.mb-7 {
+  margin-bottom: 6rem;
+}
+.mb-8 {
+  margin-bottom: 8rem;
+}
+.mb-9 {
+  margin-bottom: 10rem;
+}
+.mb-10 {
+  margin-bottom: 12rem;
+}
+.mb-11 {
+  margin-bottom: 14rem;
+}
+.mb-12 {
+  margin-bottom: 16rem;
+}
+.mb-13 {
+  margin-bottom: 18rem;
+}
+.mb-14 {
+  margin-bottom: 20rem;
+}
+.mb-15 {
+  margin-bottom: 22rem;
 }
 
 .mt-1 {
@@ -31,7 +147,42 @@
 .mt-3 {
   margin-top: 1rem;
 }
-/* ... other margin classes ... */
+.mt-4 {
+  margin-top: 1.5rem;
+}
+.mt-5 {
+  margin-top: 3rem;
+}
+.mt-6 {
+  margin-top: 4.5rem;
+}
+.mt-7 {
+  margin-top: 6rem;
+}
+.mt-8 {
+  margin-top: 8rem;
+}
+.mt-9 {
+  margin-top: 10rem;
+}
+.mt-10 {
+  margin-top: 12rem;
+}
+.mt-11 {
+  margin-top: 14rem;
+}
+.mt-12 {
+  margin-top: 16rem;
+}
+.mt-13 {
+  margin-top: 18rem;
+}
+.mt-14 {
+  margin-top: 20rem;
+}
+.mt-15 {
+  margin-top: 22rem;
+}
 
 /* Padding Utilities */
 .pr-1 {
@@ -43,7 +194,88 @@
 .pr-3 {
   padding-right: 1rem;
 }
-/* ... other padding classes ... */
+.pr-4 {
+  padding-right: 1.5rem;
+}
+.pr-5 {
+  padding-right: 3rem;
+}
+.pr-6 {
+  padding-right: 4.5rem;
+}
+.pr-7 {
+  padding-right: 6rem;
+}
+.pr-8 {
+  padding-right: 8rem;
+}
+.pr-9 {
+  padding-right: 10rem;
+}
+.pr-10 {
+  padding-right: 12rem;
+}
+.pr-11 {
+  padding-right: 14rem;
+}
+.pr-12 {
+  padding-right: 16rem;
+}
+.pr-13 {
+  padding-right: 18rem;
+}
+.pr-14 {
+  padding-right: 20rem;
+}
+.pr-15 {
+  padding-right: 22rem;
+}
+
+.pl-1 {
+  padding-left: 0.25rem;
+}
+.pl-2 {
+  padding-left: 0.5rem;
+}
+.pl-3 {
+  padding-left: 1rem;
+}
+.pl-4 {
+  padding-left: 1.5rem;
+}
+.pl-5 {
+  padding-left: 3rem;
+}
+.pl-6 {
+  padding-left: 4.5rem;
+}
+.pl-7 {
+  padding-left: 6rem;
+}
+.pl-8 {
+  padding-left: 8rem;
+}
+.pl-9 {
+  padding-left: 10rem;
+}
+.pl-10 {
+  padding-left: 12rem;
+}
+.pl-11 {
+  padding-left: 14rem;
+}
+.pl-12 {
+  padding-left: 16rem;
+}
+.pl-13 {
+  padding-left: 18rem;
+}
+.pl-14 {
+  padding-left: 20rem;
+}
+.pl-15 {
+  padding-left: 22rem;
+}
 
 .pb-1 {
   padding-bottom: 0.25rem;
