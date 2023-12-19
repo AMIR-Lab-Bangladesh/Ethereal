@@ -613,3 +613,95 @@
   padding-top: 22rem;
   padding-bottom: 22rem;
 }
+
+.p-1 {
+  padding: 0.25rem;
+}
+.p-2 {
+  padding: 0.5rem;
+}
+.p-3 {
+  padding: 1rem;
+}
+.p-4 {
+  padding: 1.5rem;
+}
+.p-5 {
+  padding: 3rem;
+}
+.p-6 {
+  padding: 4.5rem;
+}
+.p-7 {
+  padding: 6rem;
+}
+.p-8 {
+  padding: 8rem;
+}
+.p-9 {
+  padding: 10rem;
+}
+.p-10 {
+  padding: 12rem;
+}
+.p-11 {
+  padding: 14rem;
+}
+.p-12 {
+  padding: 16rem;
+}
+.p-13 {
+  padding: 18rem;
+}
+.p-14 {
+  padding: 20rem;
+}
+.p-15 {
+  padding: 22rem;
+}
+
+.m-1 {
+  margin: 0.25rem;
+}
+.m-2 {
+  margin: 0.5rem;
+}
+.m-3 {
+  margin: 1rem;
+}
+.m-4 {
+  margin: 1.5rem;
+}
+.m-5 {
+  margin: 3rem;
+}
+.m-6 {
+  margin: 4.5rem;
+}
+.m-7 {
+  margin: 6rem;
+}
+.m-8 {
+  margin: 8rem;
+}
+.m-9 {
+  margin: 10rem;
+}
+.m-10 {
+  margin: 12rem;
+}
+.m-11 {
+  margin: 14rem;
+}
+.m-12 {
+  margin: 16rem;
+}
+.m-13 {
+  margin: 18rem;
+}
+.m-14 {
+  margin: 20rem;
+}
+.m-15 {
+  margin: 22rem;
+}
