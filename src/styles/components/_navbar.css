@@ -76,8 +76,11 @@
   position: fixed;
   top: 0;
   width: 100%;
-  animation: slideDown 0.5s ease-in-out;
   z-index: 1;
+}
+
+.sticky.slideDown {
+  animation: slideDown 0.5s ease;
 }
 
 @keyframes slideDown {
